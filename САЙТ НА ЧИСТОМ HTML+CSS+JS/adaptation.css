@@ -1,0 +1,1578 @@
+
+/* adaptation */
+@media(min-width:1920px){
+    main{
+        background-image: url('images/for_adaptation/main_adaptation.png');
+        background-size:contain;
+        background-position:  bottom center;
+        padding-top: 28px;
+        padding-left: 350px;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+    .second{
+        padding: 80px 350px 64px 350px;
+    }
+    .third{
+        padding: 0px 350px 64px 350px;
+    }
+    .forth{
+        padding: 0px 350px 64px 350px;
+    }
+    .five__h2{
+        margin: 0px 350px 72px;
+    }
+    footer{
+        padding: 45px 350px 72px 350px;
+    }
+    .carousel {
+        width: 75%;
+        margin-left: 230px;
+    }
+    .main__line{
+        margin: 0;
+        padding: 0;
+    }
+}
+
+@media(max-width:1920px) and (min-width:1830px){
+    main{
+        background-image: url('images/for_adaptation/main_adaptation.png');
+        background-size:contain;
+        background-position:  bottom center;
+        padding-top: 28px;
+        padding-left: 200px;
+    }
+    .second{
+        padding: 80px 200px 64px 200px;
+    }
+    .third{
+        padding: 0px 200px 64px 200px;
+    }
+    .forth{
+        padding: 0px 200px 64px 200px;
+    }
+    .five__h2{
+        margin: 0px 200px 72px;
+    }
+    footer{
+        padding: 45px 200px 72px 200px;
+    }
+    .carousel {
+        width: 75%;
+        margin-left: 200px;
+    }
+}
+@media(max-width:1830px)and (min-width:1700px) {
+    main{
+        background-image: url('images/for_adaptation/main_adaptation.png');
+        background-size:contain;
+        background-position:  bottom center;
+        padding-top: 28px;
+        padding-left: 200px;
+    }
+    .second{
+        padding: 80px 200px 64px 200px;
+    }
+    .third{
+        padding: 0px 200px 64px 200px;
+    }
+    .forth{
+        padding: 0px 200px 64px 200px;
+    }
+    .five__h2{
+        margin: 0px 200px 72px;
+    }
+    footer{
+        padding: 45px 200px 72px 200px;
+    }
+    .carousel {
+        width: 80%;
+        margin-left: 100px;
+    }
+}
+@media(max-width:1700px) and (min-width:1600px){
+    .carousel {
+        width: 85%;
+        margin-left: 100px;
+    }
+    .forth__offer--p{
+        left: 20%;
+    }
+}
+@media(max-width:1600px) and (min-width:1500px){
+    .carousel {
+        width: 92%;
+        margin-left: 50px;
+    }
+}
+@media(max-width:1500px) and (min-width:1440px){
+    .carousel {
+        width: 94%;
+        margin-left: 0px;
+    }
+    .card{
+        width: 24%;
+    }
+}
+@media(max-width: 1340px){
+    .carousel {
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .card{
+        width: 25%;
+    }
+    .card img{
+        width: 250px;
+    }
+    .forth__offer--p{
+        left: 30%;
+    }
+    .third__p{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 52px;
+        margin-bottom: 25px;
+    }
+}
+@media(max-width: 1300px){
+    .carousel {
+        width: 100%;
+        margin-left: 0px;
+    }
+
+    .card{
+        width: 25%;
+    }
+    .card img{
+        width: 250px;
+    }
+    .forth__offer--p{
+        left: 30%;
+    }
+    .third__p{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 52px;
+        margin-bottom: 25px;
+    }
+    h3{
+        font-size: 30px;
+    }
+    .plane{
+        right: -50px;
+    }
+}
+@media(max-width: 1260px){
+    .carousel {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .card{
+        width: 25%;
+    }
+    .card img{
+        width: 250px;
+    }
+    .forth__offer--p{
+        left: 22%;
+        font-size: 16px;
+    }
+    .third__p{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 52px;
+        margin-bottom: 25px;
+        margin-top: 45px;
+    }
+    h3{
+        font-size: 30px;
+    }
+    .main__div--containerlink--link{
+        width: 210px;
+        height: 53px;
+    }
+    .main__div--p{
+        margin-bottom: 36px;
+    }
+    .row {
+        font-size: 16px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    .plane{
+        width: 320px;
+    }
+}
+@media(max-width: 1200px){
+    .carousel {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .card{
+        width: 25%;
+    }
+    .card img{
+        width: 250px;
+    }
+    .forth__offer--p{
+        left: 22%;
+        font-size: 16px;
+    }
+    .third__p{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 52px;
+        margin-bottom: 25px;
+        margin-top: 45px;
+    }
+    h3{
+        font-size: 24px;
+    }
+    .main__div--containerlink--link{
+        width: 210px;
+        height: 53px;
+    }
+    .main__div--p{
+        margin-bottom: 36px;
+        width: 50%;
+    }
+    .row {
+        font-size: 16px;
+    }
+    h2{
+        font-size: 40px;
+    }
+}
+@media(max-width: 1160px){
+    .carousel {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .card{
+        width: 25%;
+    }
+    .card img{
+        width: 250px;
+    }
+    .forth__offer--p{
+        left: 25%;
+        font-size: 16px;
+    }
+    .third__p{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 52px;
+        margin-bottom: 25px;
+        margin-top: 45px;
+    }
+    h3{
+        font-size: 24px;
+    }
+    .main__div--containerlink--link{
+        width: 210px;
+        height: 53px;
+    }
+    .main__div--p{
+        margin-bottom: 36px;
+        width: 50%;
+    }
+    .row {
+        font-size: 16px;
+    }
+    h2{
+        font-size: 40px;
+    }
+}
+
+@media(max-width: 1100px){
+    .carousel {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .card{
+        width: 25%;
+    }
+    .card img{
+        width: 250px;
+    }
+    .forth__offer--p{
+        left: 25%;
+        font-size: 16px;
+    }
+    .third__p{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 52px;
+        margin-bottom: 25px;
+        margin-top: 45px;
+    }
+    h3{
+        font-size: 24px;
+    }
+    .main__div--containerlink--link{
+        width: 210px;
+        height: 53px;
+    }
+    .main__div--p{
+        margin-bottom: 36px;
+        width: 50%;
+    }
+    .row {
+        font-size: 16px;
+    }
+    h2{
+        font-size: 40px;
+    }
+    .third img {
+        max-width: 360px;
+        min-height: 500px;
+    }
+    .plane{
+        width: 200px;
+        right: -11px;
+        top: -25px;
+    }
+    article{
+        font-size: 14px;
+    }
+    .carousel__card--p{
+        font-size: 20px;
+        
+    }
+    .carousel__card--p2{
+        font-size: 16px;
+    }
+    .second img{
+        width: 35%;
+    }
+    .third__p{
+        margin-top: 25px;
+    }
+}
+
+@media(max-width: 1023px){
+    .carousel {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .card{
+        width: 25%;
+    }
+    .card img{
+        width: 250px;
+    }
+    .forth__offer--p{
+        left: 22%;
+        top: 35%;
+        font-size: 16px;
+    }
+    .third__p{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 40px;
+        margin-bottom: 25px;
+        margin-top: 45px;
+    }
+    h3{
+        font-size: 24px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .main__line--h4{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .forth__div--number{
+        margin: 10px 10px 0 10px;
+    }
+    .main__div--containerlink--link{
+        width: 210px;
+        height: 53px;
+    }
+    .main__div--p{
+        margin-bottom: 36px;
+        width: 50%;
+    }
+    .row {
+        font-size: 16px;
+    }
+    h2{
+        font-size: 30px;
+    }
+    .third img {
+        max-width: 360px;
+        min-height: 500px;
+    }
+    .plane{
+        width: 200px;
+        right: -11px;
+        top: -25px;
+    }
+    article{
+        font-size: 14px;
+    }
+    .carousel__card--p{
+        font-size: 20px;
+        
+    }
+    .carousel__card--p2{
+        font-size: 16px;
+    }
+    .second img{
+        width: 35%;
+    }
+    .third__p{
+        margin-top: 25px;
+    }
+    footer{
+        font-size: 14px;
+    }
+}
+
+@media(max-width: 980px){
+    .carousel {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .card{
+        width: 25%;
+    }
+    .card img{
+        width: 250px;
+    }
+    .forth__offer--p{
+        left: 22%;
+        top: 35%;
+        font-size: 16px;
+    }
+    .third__p{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 40px;
+        margin-bottom: 25px;
+        margin-top: 45px;
+    }
+    h3{
+        font-size: 24px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .main__line--h4{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .forth__div--number{
+        margin: 10px 10px 0 10px;
+    }
+    .main__div--containerlink--link{
+        width: 210px;
+        height: 53px;
+    }
+    .main__div--p{
+        margin-bottom: 36px;
+        width: 50%;
+    }
+    .row {
+        font-size: 16px;
+    }
+    h2{
+        font-size: 30px;
+    }
+    .third img {
+        max-width: 100%;
+        height: 400px;
+    }
+    .plane{
+        width: 200px;
+        right: -11px;
+        top: -25px;
+    }
+    article{
+        font-size: 14px;
+    }
+    .carousel__card--p{
+        font-size: 20px;
+        
+    }
+    .carousel__card--p2{
+        font-size: 16px;
+    }
+    .second img{
+        width: 60%;
+    }
+    .third__p{
+        margin-top: 25px;
+    }
+    footer{
+        font-size: 14px;
+    }
+    .third{
+        flex-direction: column;
+    }
+    .third__div{
+        margin: 0;
+    }
+}
+
+@media(max-width: 936px){
+    .carousel {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .card{
+        width: 25%;
+    }
+    .card img{
+        width: 250px;
+    }
+    .forth__offer--p{
+        left: 22%;
+        top: 35%;
+        font-size: 16px;
+    }
+    .third__p{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 40px;
+        margin-bottom: 25px;
+        margin-top: 45px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .main__line--h4{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .forth__div--number{
+        margin: 10px 10px 0 10px;
+    }
+    .main__div--containerlink--link{
+        width: 210px;
+        height: 53px;
+        font-size: 14px;
+    }
+    .main__div--p{
+        margin-bottom: 36px;
+        width: 50%;
+        font-size: 14px;
+    }
+    .row {
+        font-size: 16px;
+    }
+    h2{
+        font-size: 26px;
+    }
+    .third img {
+        max-width: 100%;
+        height: 400px;
+    }
+    .plane{
+        width: 200px;
+        right: -11px;
+        top: -25px;
+    }
+    article{
+        font-size: 14px;
+    }
+    .carousel__card--p{
+        font-size: 16px;
+        
+    }
+    .carousel__card--p2{
+        font-size: 14px;
+    }
+    .second img{
+        width: 60%;
+    }
+    .third__p{
+        margin-top: 25px;
+    }
+    footer{
+        font-size: 14px;
+    }
+    .third{
+        flex-direction: column;
+    }
+    .third__div{
+        margin: 0;
+    }
+}
+
+@media(max-width: 910px){
+    .forth__div2{
+        display: block;
+    }
+    .carousel {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .card{
+        width: 25%;
+    }
+    .card img{
+        width: 250px;
+    }
+    .forth__offer--p{
+        left: 22%;
+        top: 35%;
+        font-size: 16px;
+    }
+    .third__p{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 40px;
+        margin-bottom: 25px;
+        margin-top: 45px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .main__line--h4{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .forth__div--number{
+        margin: 10px 10px 0 10px;
+    }
+    .main__div--containerlink--link{
+        width: 210px;
+        height: 53px;
+        font-size: 14px;
+    }
+    .main__div--p{
+        margin-bottom: 36px;
+        width: 50%;
+        font-size: 14px;
+    }
+    .row {
+        font-size: 16px;
+    }
+    h2{
+        font-size: 26px;
+    }
+    .third img {
+        max-width: 75%;
+        height: 400px;
+    }
+    .plane{
+        width: 200px;
+        right: -11px;
+        top: -25px;
+    }
+    article{
+        font-size: 14px;
+    }
+    .carousel__card--p{
+        font-size: 16px;
+        
+    }
+    .carousel__card--p2{
+        font-size: 14px;
+    }
+    .second img{
+        width: 60%;
+    }
+    .third__p{
+        margin-top: 25px;
+    }
+    footer{
+        font-size: 14px;
+    }
+    .third{
+        flex-direction: column;
+        align-items:center;
+        justify-content: center;
+    }
+    .second__h3--big{
+        display: none;
+    }
+    .second__h3{
+        display: block;
+    }
+    .second{
+        flex-direction: column;
+    }
+    .forth__div{
+        display: none;
+    }
+    .carousel_link{
+        font-size: 14px;
+    }
+    .third__div{
+        margin: 0;
+    }
+}
+
+
+@media(max-width: 798px){
+    main{
+        height: 513px;
+    }
+    .main__header--p{
+        font-size: 14px;
+    }
+    .carousel {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .card{
+        width: 25%;
+    }
+    .card img{
+        width: 250px;
+    }
+    .forth__offer--p{
+        left: 25%;
+        top: 35%;
+        font-size: 16px;
+    }
+    .third__p{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 30px;
+        margin-bottom: 25px;
+        margin-top: 30px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .main__line--h4{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .forth__div--number{
+        margin: 10px 10px 0 10px;
+    }
+    .main__div--containerlink--link{
+        width: 170px;
+        height: 53px;
+        font-size: 14px;
+    }
+    .main__div--p{
+        margin-bottom: 36px;
+        width: 60%;
+        font-size: 14px;
+    }
+    .row {
+        font-size: 16px;
+    }
+    h2{
+        font-size: 26px;
+    }
+    .third img {
+        max-width: 75%;
+        height: 400px;
+    }
+    .plane{
+        width: 200px;
+        right: -11px;
+        top: -25px;
+    }
+    article{
+        font-size: 14px;
+    }
+    .carousel__card--p{
+        font-size: 16px;
+        
+    }
+    .carousel__card--p2{
+        font-size: 14px;
+    }
+    .second img{
+        width: 60%;
+    }
+    .third__p{
+        margin-top: 25px;
+    }
+    footer{
+        font-size: 14px;
+    }
+    .third{
+        flex-direction: column;
+        align-items:center;
+        justify-content: center;
+    }
+    .second__h3--big{
+        display: none;
+    }
+    .second__h3{
+        display: block;
+    }
+    .second{
+        padding-top: 50px;
+        padding-bottom: 50px;
+        flex-direction: column;
+    }
+    .forth__div{
+        display: none;
+    }
+    .carousel_link{
+        font-size: 14px;
+    }
+    .plane2{
+        top: -150px;
+    }
+    .third__div{
+        margin: 0;
+    }
+}
+
+@media(max-width: 720px){
+    main{
+        height: 812px;
+        background-image: url('images/for_adaptation/main_small.png');
+        background-size: contain;
+        background-position: center +200px;
+        margin-bottom: 0;
+    }
+    .main__header--p{
+        font-size: 14px;
+    }
+    .carousel {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .card{
+        width: 25%;
+    }
+    .card img{
+        width: 250px;
+    }
+    .forth__offer--p{
+        left: 30%;
+        top: 35%;
+        font-size: 16px;
+    }
+    .third__p{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 36px;
+
+        margin-bottom: 25px;
+        margin-top: 30px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .main__line--h4{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .forth__div--number{
+        margin: 10px 10px 0 10px;
+    }
+    .main__div--containerlink--link{
+        width: 170px;
+        height: 53px;
+        font-size: 14px;
+    }
+    .main__div--p{
+        margin-bottom: 36px;
+        width: 60%;
+        font-size: 14px;
+    }
+    .row {
+        font-size: 16px;
+    }
+    h2{
+        font-size: 26px;
+    }
+    .third img {
+        max-width: 75%;
+        height: 400px;
+    }
+    .plane{
+        width: 200px;
+        right: -11px;
+        top: -25px;
+    }
+    article{
+        font-size: 14px;
+    }
+    .carousel__card--p{
+        font-size: 16px;
+        
+    }
+    .carousel__card--p2{
+        font-size: 14px;
+    }
+    .second img{
+        width: 60%;
+    }
+    .third__p{
+        margin-top: 25px;
+    }
+    footer{
+        font-size: 14px;
+    }
+    .third{
+        flex-direction: column;
+        align-items:center;
+        justify-content: center;
+    }
+    .second__h3--big{
+        display: none;
+    }
+    .second__h3{
+        display: block;
+    }
+    .second{
+        padding-top: 50px;
+        padding-bottom: 50px;
+        flex-direction: column;
+    }
+    .forth__div{
+        display: none;
+    }
+    .carousel_link{
+        font-size: 14px;
+    }
+    .plane2{
+        width: 200px;
+        top: -130px;
+    }
+    .third__div{
+        margin: 0;
+    }
+}
+
+
+
+@media(max-width: 665px){
+    main{
+        height: 812px;
+        background-image: url('images/for_adaptation/main_small.png');
+        background-size: contain;
+        background-position: center +200px;
+        margin-bottom: 0;
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+    .main__header--p{
+        font-size: 14px;
+    }
+    .carousel {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .card{
+        width: 25%;
+    }
+    .card img{
+        width: 250px;
+    }
+    .forth__offer--p{
+        left: 0%;
+        top: 70%;
+        font-size: 18px;
+    }
+    .third__p{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 36px;
+
+        margin-bottom: 25px;
+        margin-top: 30px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .main__line--h4{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .forth__div--number{
+        margin: 10px 10px 0 10px;
+    }
+    .main__div--containerlink--link{
+        width: 170px;
+        height: 53px;
+        font-size: 14px;
+    }
+    .main__div--p{
+        margin-bottom: 36px;
+        width: 75%;
+        font-size: 14px;
+    }
+    .row {
+        font-size: 16px;
+    }
+    h2{
+        font-size: 36px;
+    }
+    .third img {
+        max-width: 75%;
+        height: 400px;
+    }
+    .plane{
+        width: 200px;
+        right: -11px;
+        top: -25px;
+    }
+    article{
+        font-size: 14px;
+    }
+    .carousel__card--p{
+        font-size: 16px;
+        
+    }
+    .carousel__card--p2{
+        font-size: 14px;
+    }
+    .second img{
+        width: 100%;
+    }
+    .third__p{
+        margin-top: 25px;
+    }
+    footer{
+        font-size: 14px;
+        padding: 20px;
+    }
+    .third{
+        flex-direction: column;
+        align-items:center;
+        justify-content: center;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .forth{
+        padding: 0 20px 64px;
+    }
+    .third__div{
+        margin: 0;
+    }
+    .second__h3--big{
+        display: none;
+    }
+    .second__h3{
+        display: block;
+    }
+    .second{
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 20px;
+        padding-right: 20px;
+        flex-direction: column;
+    }
+    .forth__div{
+        display: none;
+    }
+    .carousel_link{
+        font-size: 14px;
+    }
+    .plane2{
+        width: 200px;
+        top: -130px;
+    }
+    .forth h2{
+        width: 50%;
+        margin-bottom: 70px;
+    }
+    .forth__div2{
+        display: none;
+    }
+    .carousel__plane{
+        width: 300px;
+        display: block;
+    }
+    .carousel2{
+        display: block;
+    }
+    .forth__carousel--buttoncontainer{
+        display: flex;
+    }
+    .five__h2--buttoncontainer{
+        display: none;
+    }
+    .five__h2--buttoncontainer2{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 100px;
+    }
+    .main__img{
+        height: 812px;
+    }
+    .five__h2 h2{
+        width: 50%;
+    }
+    .five__h2{
+        margin: 0px 20px 20px;
+    }
+    .row{
+        flex-direction: column;
+        font-size: 20px;
+    }
+    .row__cell{
+        padding: 10px;
+    }
+    .row__cell--border{
+        border: none;
+    }
+}
+
+
+
+@media(max-width: 595px){
+    main{
+        height: 812px;
+        background-image: url('images/for_adaptation/main_small.png');
+        background-size: contain;
+        background-position: center +275px;
+        margin-bottom: 0;
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+    .main__header--p{
+        font-size: 14px;
+    }
+    .carousel {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .card{
+        width: 25%;
+    }
+    .card img{
+        width: 250px;
+    }
+    .forth__offer--p{
+        left: 0%;
+        top: 70%;
+        font-size: 18px;
+    }
+    .third__p{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 36px;
+
+        margin-bottom: 25px;
+        margin-top: 30px;
+    }
+    h3{
+        font-size: 20px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .main__line--h4{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .forth__div--number{
+        margin: 10px 10px 0 10px;
+    }
+    .main__div--containerlink--link{
+        width: 170px;
+        height: 53px;
+        font-size: 14px;
+    }
+    .main__div--p{
+        margin-bottom: 36px;
+        width: 75%;
+        font-size: 14px;
+    }
+    .row {
+        font-size: 16px;
+    }
+    h2{
+        font-size: 36px;
+    }
+    .third img {
+        max-width: 75%;
+        height: 400px;
+    }
+    .plane{
+        width: 200px;
+        right: -11px;
+        top: -25px;
+    }
+    article{
+        font-size: 14px;
+    }
+    .carousel__card--p{
+        font-size: 16px;
+        
+    }
+    .carousel__card--p2{
+        font-size: 14px;
+    }
+    .second img{
+        width: 100%;
+    }
+    .third__p{
+        margin-top: 25px;
+    }
+    footer{
+        font-size: 14px;
+        padding: 20px;
+    }
+    .third{
+        flex-direction: column;
+        align-items:center;
+        justify-content: center;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .forth{
+        padding: 0 20px 64px;
+    }
+    .third__div{
+        margin: 0;
+    }
+    .second__h3--big{
+        display: none;
+    }
+    .second__h3{
+        display: block;
+    }
+    .second{
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 20px;
+        padding-right: 20px;
+        flex-direction: column;
+    }
+    .forth__div{
+        display: none;
+    }
+    .carousel_link{
+        font-size: 14px;
+    }
+    .plane2{
+        width: 200px;
+        top: -130px;
+    }
+    .forth h2{
+        width: 50%;
+        margin-bottom: 70px;
+    }
+    .forth__div2{
+        display: none;
+    }
+    .carousel__plane{
+        width: 300px;
+        display: block;
+    }
+    .carousel2{
+        display: block;
+    }
+    .forth__carousel--buttoncontainer{
+        display: flex;
+    }
+    .five__h2--buttoncontainer{
+        display: none;
+    }
+    .five__h2--buttoncontainer2{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 100px;
+    }
+    .main__img{
+        height: 812px;
+    }
+    .five__h2 h2{
+        width: 50%;
+    }
+    .five__h2{
+        margin: 0px 20px 20px;
+    }
+    .row{
+        flex-direction: column;
+        font-size: 20px;
+    }
+    .row__cell{
+        padding: 10px;
+    }
+    .row__cell--border{
+        border: none;
+    }
+}
+
+
+@media(max-width: 530px){
+    main{
+        height: 812px;
+        background-image: url('images/for_adaptation/main_small.png');
+        background-size: contain;
+        background-position: center +300px;
+        margin-bottom: 0;
+        padding-left: 20px;
+        padding-top: 20px;
+    }
+    .main__header--p{
+        font-size: 14px;
+    }
+    .carousel {
+        width: 100%;
+        margin-left: 0px;
+    }
+    .card{
+        width: 25%;
+    }
+    .card img{
+        width: 250px;
+    }
+    .forth__offer--p{
+        left: 0%;
+        top: 70%;
+        font-size: 18px;
+    }
+    .third__p{
+        font-size: 18px;
+    }
+    h1{
+        font-size: 40px;
+        text-align: center;
+        margin-bottom: 25px;
+        margin-top: 30px;
+    }
+    h3{
+        font-size: 28px;
+    }
+    h4{
+        font-size: 20px;
+    }
+    .main__line--h4{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .forth__div--number{
+        margin: 10px 10px 0 10px;
+    }
+    .main__div--containerlink{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items:center;
+    }
+    .main__div--containerlink--link{
+        width: 95%;
+        height: 53px;
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+    .link2{
+        margin: 0;
+        border:none;
+        background-color: #fff;
+    }
+    .main__div--p{
+        margin-bottom: 36px;
+        width: 75%;
+        margin-left: 20px;
+        font-size: 18px;
+        text-align: left;
+    }
+    .row {
+        font-size: 16px;
+    }
+    .row__cell{
+        width: 100%;
+    }
+    h2{
+        font-size: 36px;
+        
+    }
+    .third img {
+        max-width: 100%;
+        min-height: 300px;
+    }
+    .plane{
+        width: 200px;
+        right: -11px;
+        top: -25px;
+    }
+    article{
+        font-size: 14px;
+    }
+    .carousel__card--p{
+        font-size: 16px;
+        
+    }
+    .carousel__card--p2{
+        font-size: 14px;
+    }
+    .second img{
+        width: 100%;
+    }
+    .third__p{
+        margin-top: 25px;
+    }
+    footer{
+        font-size: 14px;
+        padding: 20px;
+    }
+    .third{
+        flex-direction: column;
+        align-items:center;
+        justify-content: center;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .forth{
+        padding: 0 20px 64px;
+    }
+    .third__div{
+        margin: 0;
+    }
+    .second__h3--big{
+        display: none;
+    }
+    .second__h3{
+        display: block;
+        text-align: left;
+    }
+    .second{
+        padding-top: 50px;
+        padding-bottom: 50px;
+        padding-left: 20px;
+        padding-right: 20px;
+        flex-direction: column;
+    }
+    .forth__div{
+        display: none;
+    }
+    .carousel_link{
+        font-size: 14px;
+    }
+    .plane2{
+        width: 200px;
+        top: -130px;
+    }
+    .forth h2{
+        width: 50%;
+        margin-bottom: 70px;
+    }
+    .forth__div2{
+        display: none;
+    }
+    .carousel__plane{
+        width: 100%;
+        display: block;
+        top: 146px;
+        left: 0;
+    }
+    .carousel2{
+        display: block;
+        margin-top: 125px;
+    }
+    .forth__carousel--buttoncontainer{
+        display: flex;
+    }
+    .five__h2--buttoncontainer{
+        display: none;
+    }
+    .five__h2--buttoncontainer2{
+        display: flex;
+        justify-content: center;
+        margin-bottom: 100px;
+    }
+    .main__img{
+        height: 812px;
+    }
+    .five__h2 h2{
+        width: 50%;
+    }
+    .five__h2{
+        margin: 0px 20px 20px;
+    }
+    .row{
+        flex-direction: column;
+        font-size: 20px;
+    }
+    .row__cell{
+        padding: 10px;
+    }
+    .row__cell--border{
+        border: none;
+    }
+}
+@media(max-width: 500px){
+    h1{
+        font-size: 36px;
+    }
+    .third__img{
+        width: 100%;
+        min-height: 300px;
+    }
+    main{
+        background-position:  center +400px;
+    }
+    .main__div--span{
+        width: 45px;
+    }
+    .main__div--span2{
+        width: 15px;
+    }
+    .carousel__plane {
+        width: 75%;
+        display: block;
+        top: 206px;
+        left: 68px;
+    }
+}
+@media(max-width: 410px){
+    main{
+        background-position:  center +450px;
+    }
+    .carousel__plane{
+        top: 245px;
+    }
+    .main__div--p{
+        width: 90%;
+    }
+}
+@media(max-width: 351px){
+    main{
+        background-position:  center +500px;
+    }
+    h1{
+        font-size: 30px;
+    }
+    h2{
+        font-size: 28px;
+    }
+    h3{
+        font-size: 26px;
+    }
+    h4{
+        font-size: 26px;
+    }
+}
